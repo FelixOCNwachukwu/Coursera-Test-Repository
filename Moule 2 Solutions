@@ -1,0 +1,27 @@
+<!Doctype html>
+<html>
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport&quot;"content="width=device-width;" "initial-scale-1">
+ <tittle> module2-solutions </tittle>
+ <link rel="stylesheet" type="text/css" href="3 column layout.css">
+</head>
+
+<body>
+ <div class="wrapper">
+  <header>
+   <h1> OUR MENU </h1>
+   </header>
+
+   <section class="Menu">
+    <div class="Menu">
+
+    <h2> Chicken </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi maximus posuere ornare.</p>
+
+    <h2> Beef </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi maximus posuere ornare.</p>
+
+    <h2> Sushi </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi maximus posuere ornare.</p>
