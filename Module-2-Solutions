@@ -24,7 +24,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate.</p>
 
         <h2>Sushi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate.</p> <!-- Added a closing </p> tag -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt neque a nulla rutrum, et sagittis nisl vulputate.</p>
 
       </div>
     </section>
